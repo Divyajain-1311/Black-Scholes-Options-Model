@@ -2,8 +2,6 @@
 
 ## Synopsis
 
-[![GPLv3 License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
- ![GitHub last commit](https://img.shields.io/github/last-commit/dreamchef/Black-Scholes-options-pricing/main)
 
 Tests the Black-Scholes model and its performance on forecasting option call prices of a selected option chain dataset. Discusses factors such as volatility and time to expiration that affect the estimations of call option prices and how this occurs within the dynamics of the model.
 
