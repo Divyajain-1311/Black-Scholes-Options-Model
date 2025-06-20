@@ -1,11 +1,5 @@
 # Python Implementation and Analysis of the Black-Scholes Model for Pricing Call Options
 
-*Primary Author*: Dani Lisle
-
-*Contributors*: Devlin Costello, Jay Nasser
-
-*Affiliation*: Department of Applied Mathematics, University of Colorado Boulder
-
 ## Synopsis
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
